@@ -1,0 +1,22 @@
+{
+  "mp_login": {
+    "phone": "13911111111",
+    "code": "246810",
+    "exp": "江苏传智播客教育科技股份有限公司"
+  },
+  "mp_publish_article": {
+    "title": "文章发表测试",
+    "content": "内容测试zsbd",
+    "channel": "html",
+    "exp": "新增文章成功"
+  },
+  "mis_login": {
+    "account": "testid",
+    "password": "testpwd123",
+    "exp": "欢迎 管理员"
+  },
+  "mis_audit_article": {
+    "title": "文章发表测试",
+    "exp": "审核通过"
+  }
+}
